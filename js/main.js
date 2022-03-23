@@ -1,6 +1,5 @@
 const elText = document.querySelectorAll(".form-control");
 const elGrow = document.querySelectorAll(".range-grow");
-let count = 0;
 
 elText.forEach((item, index) => {
   item.addEventListener("keyup", () => {

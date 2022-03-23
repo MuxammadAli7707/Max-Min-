@@ -26,7 +26,7 @@ body {
 .range-grow {
   width: 0;
   height: 8px;
-  background-color: orangered;
+  background-color: #9900ff;
   display: inline-block;
   position: absolute;
   border-radius: 5px;
